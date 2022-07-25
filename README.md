@@ -33,6 +33,14 @@ DB Lens is an **open-source database client** that helps you to explore database
 
 NodeJS & yarn (NPM should also work but we are maintaining a yarn lock file only
 
+The basic PostgreSQL commands (like `pg_config`).
+
+On macOS
+
+```
+brew install postgresql
+```
+
 ### Steps
 
 - install dependencies
